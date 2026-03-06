@@ -1,0 +1,10 @@
+Flask==2.2.5
+gunicorn==21.2.0
+markupsafe==2.1.5
+requests==2.31.0
+numpy==1.23.5
+scipy==1.9.3
+pandas==1.5.3
+scikit-learn==1.0.2
+Pillow==10.2.0
+matplotlib==3.7.5
