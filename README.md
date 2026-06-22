@@ -78,6 +78,29 @@ cd CROP-YIELD-PREDICTION
 
 ---
 
+## Download Model Files
+
+This project uses Git LFS to store trained machine learning models.
+
+After cloning the repository, run:
+
+### macOS
+
+```bash
+brew install git-lfs
+git lfs install
+git lfs pull
+```
+
+### Windows
+
+Install Git LFS from https://git-lfs.com
+
+Then run:
+
+git lfs install
+git lfs pull
+
 ## Create a Virtual Environment
 
 ### Windows
