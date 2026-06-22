@@ -98,8 +98,10 @@ Install Git LFS from https://git-lfs.com
 
 Then run:
 
+```bash
 git lfs install
 git lfs pull
+```
 
 ## Create a Virtual Environment
 
